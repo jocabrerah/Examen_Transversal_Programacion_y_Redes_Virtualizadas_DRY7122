@@ -1,0 +1,17 @@
+
+Viaje desde Santiago hasta Mendoza:
+- Distancia: 223.77 km
+- Duración del viaje: 04 horas, 37 minutos, 57 segundos
+- Litros necesarios: 26.85 L
+Viaje desde Santiago hasta Sao Pablo:
+- Distancia: 2025.87 km
+- Duración del viaje: 34 horas, 05 minutos, 01 segundos
+- Litros necesarios: 243.1 L
+Viaje desde Santiago hasta bogota:
+- Distancia: 3876.72 km
+- Duración del viaje: 80 horas, 48 minutos, 33 segundos
+- Litros necesarios: 465.21 L
+Viaje desde Santiago hasta Mendoza:
+- Distancia: 224.09 km
+- Duración del viaje: 04 horas, 36 minutos, 41 segundos
+- Litros necesarios: 26.89 L
